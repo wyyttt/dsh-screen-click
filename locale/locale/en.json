@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Identity V ready",
+    "description": "Watches the dwrg.exe window and clicks the ready button until it disappears."
+  }
+}
